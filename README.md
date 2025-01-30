@@ -1,6 +1,6 @@
     -
     
-                      FullStack Developer using:
+     FullStack Developer using:
     
     HTML, React, NodeJs, JavaScript, TailwindCSS - 
 
