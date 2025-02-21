@@ -1,7 +1,11 @@
     
     
    user:
-`Rafael` = `Full-Stack Web Developer ` `|`  `Building modern web applications with:?`
+`Rafael` = `Full-Stack Web Developer ` 
+
+`|`  
+
+`Building modern web applications with:?`
      
     HTML, JavaScript, React, Node.js, Tailwind CSS, TypeScript
 
