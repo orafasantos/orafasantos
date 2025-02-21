@@ -1,10 +1,11 @@
-    -
     
-   const Rafael = `Full-Stack Developer | Building modern web applications with:?`
+    
+   user:
+`Rafael` = `Full-Stack Web Developer ` `|`  `Building modern web applications with:?`
      
-    HTML, JavaScript (ES6+), React, Node.js, Tailwind CSS, TypeScript
+    HTML, JavaScript, React, Node.js, Tailwind CSS, TypeScript
 
-    -
+    
 
 <a href="https://app.rocketseat.com.br/me/orafasantos">
         <img
